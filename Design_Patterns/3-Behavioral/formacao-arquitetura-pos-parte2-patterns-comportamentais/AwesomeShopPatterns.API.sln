@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwesomeShopPatterns.API", "AwesomeShopPatterns.API.csproj", "{98FA3A98-0C28-4C71-B728-687DF9252C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FA3A98-0C28-4C71-B728-687DF9252C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FA3A98-0C28-4C71-B728-687DF9252C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FA3A98-0C28-4C71-B728-687DF9252C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FA3A98-0C28-4C71-B728-687DF9252C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFE57876-E21C-4B5F-83B8-B7BCA5E58DE3}
+	EndGlobalSection
+EndGlobal
